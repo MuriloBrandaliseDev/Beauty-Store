@@ -1,4 +1,4 @@
-# 🌸 Loja de Beleza - E-commerce 💄✨
+#    Loja de Beleza - E-commerce 
 
 Bem-vindo ao repositório do nosso e-commerce de beleza! 🛍️💖 Este projeto foi desenvolvido para proporcionar uma experiência incrível de compras online de cosméticos e produtos de beleza. 
 
