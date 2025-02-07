@@ -54,10 +54,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 Sinta-se à vontade para contribuir! Basta criar um **fork**, implementar a melhoria e abrir um **pull request**. 😉
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Sinta-se livre para usar e modificar! 🎉
-
 ---
 
 👩‍💻 **Desenvolvido por:** [Murilo Brandalise](https://github.com/MuriloBrandaliseDev/) 🌟
