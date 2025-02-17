@@ -748,3 +748,31 @@ footer a:hover {
     margin-bottom: 20px;
   }
 }
+
+/* Responsividade do Modal Newsletter */
+#newsletterModal .modal-dialog {
+  max-width: 600px; /* Largura padrão para telas maiores */
+  margin: 2rem auto;
+}
+
+@media (max-width: 576px) {
+  #newsletterModal .modal-dialog {
+    max-width: 90%; /* Reduz a largura em telas pequenas */
+    margin: 1rem auto;
+  }
+}
+
+/* Se desejar ajustar o conteúdo interno do modal para telas menores */
+@media (max-width: 576px) {
+  #newsletterModal .modal-content {
+    padding: 1rem;
+  }
+  
+  #newsletterModal .newsletter-text h2 {
+    font-size: 1.5rem;
+  }
+  
+  #newsletterModal .newsletter-text p {
+    font-size: 0.9rem;
+  }
+}
